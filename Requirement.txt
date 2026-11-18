@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+numpy
+scipy
+soundfile
+python-dotenv
+faster-whisper
+groq
